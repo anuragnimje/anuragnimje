@@ -7,7 +7,7 @@
 - 🌱 Exploring **AI Tools, Firebase Integration, and Full Stack Development**
 - 💼 Founder of **NeuroBit Solutions**
 - 👨‍💻 All my projects are available at: [GitHub Repos](https://github.com/anuragnimje5925a228)
-- 📫 How to reach me: **anuragnimje24@gmail.com**
+- 📫 How to reach me: **nimjeanurag9@gmail.com**
 - 📝 Check out my [Resume](#) | [LinkedIn](https://www.linkedin.com/in/anuragnimje5925a228)
 
 ---
